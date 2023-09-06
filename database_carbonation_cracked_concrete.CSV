@@ -1,0 +1,120 @@
+Ref,Mix type,binder type,crack type,w/b [-],exposure time [year],crack width [mm],crack depth [mm],carbonation depth [mm],CO2 [%],RH [%],DOI
+Guo.2022,paste,OPC,notch,0.3,0.019178082,0,0,3.32,20,70,https://doi.org/10.3390/ma15134518
+Guo.2022,paste,OPC,notch,0.3,0.019178082,0.2,10,15.50,20,70,https://doi.org/10.3390/ma15134519
+Guo.2022,paste,OPC,notch,0.3,0.038356164,0,0,5.10,20,70,https://doi.org/10.3390/ma15134520
+Guo.2022,paste,OPC,notch,0.3,0.038356164,0.2,10,16.20,20,70,https://doi.org/10.3390/ma15134521
+Guo.2022,paste,OPC,notch,0.3,0.057534247,0,0,7.03,20,70,https://doi.org/10.3390/ma15134522
+Guo.2022,paste,OPC,notch,0.3,0.057534247,0.2,10,16.60,20,70,https://doi.org/10.3390/ma15134523
+Guo.2022,paste,OPC,notch,0.35,0.019178082,0,0,5.15,20,70,https://doi.org/10.3390/ma15134524
+Guo.2022,paste,OPC,notch,0.35,0.019178082,0.2,15,16.00,20,70,https://doi.org/10.3390/ma15134529
+Guo.2022,paste,OPC,notch,0.35,0.038356164,0,0,7.97,20,70,https://doi.org/10.3390/ma15134540
+Guo.2022,paste,OPC,notch,0.35,0.038356164,0.1,10,13.20,20,70,https://doi.org/10.3390/ma15134541
+Guo.2022,paste,OPC,notch,0.35,0.038356164,0.2,10,15.60,20,70,https://doi.org/10.3390/ma15134542
+Guo.2022,paste,OPC,notch,0.35,0.038356164,0.3,10,16.20,20,70,https://doi.org/10.3390/ma15134543
+Guo.2022,paste,OPC,notch,0.35,0.038356164,0.1,15,15.10,20,70,https://doi.org/10.3390/ma15134544
+Guo.2022,paste,OPC,notch,0.35,0.038356164,0.2,15,16.80,20,70,https://doi.org/10.3390/ma15134545
+Guo.2022,paste,OPC,notch,0.35,0.038356164,0.3,15,18.20,20,70,https://doi.org/10.3390/ma15134546
+Guo.2022,paste,OPC,notch,0.35,0.038356164,0.1,20,15.60,20,70,https://doi.org/10.3390/ma15134547
+Guo.2022,paste,OPC,notch,0.35,0.038356164,0.2,20,17.40,20,70,https://doi.org/10.3390/ma15134548
+Guo.2022,paste,OPC,notch,0.35,0.038356164,0.3,20,18.90,20,70,https://doi.org/10.3390/ma15134549
+Guo.2022,paste,OPC,notch,0.35,0.038356164,0.1,25,16.10,20,70,https://doi.org/10.3390/ma15134550
+Guo.2022,paste,OPC,notch,0.35,0.038356164,0.2,25,17.60,20,70,https://doi.org/10.3390/ma15134551
+Guo.2022,paste,OPC,notch,0.35,0.038356164,0.3,25,19.20,20,70,https://doi.org/10.3390/ma15134552
+Guo.2022,paste,OPC,notch,0.35,0.038356164,0.1,30,16.20,20,70,https://doi.org/10.3390/ma15134553
+Guo.2022,paste,OPC,notch,0.35,0.038356164,0.2,30,17.50,20,70,https://doi.org/10.3390/ma15134554
+Guo.2022,paste,OPC,notch,0.35,0.038356164,0.3,30,19.00,20,70,https://doi.org/10.3390/ma15134555
+Guo.2022,paste,OPC,notch,0.35,0.057534247,0,0,10.17,20,70,https://doi.org/10.3390/ma15134556
+Guo.2022,paste,OPC,notch,0.35,0.057534247,0.2,15,18.00,20,70,https://doi.org/10.3390/ma15134561
+Guo.2022,paste,OPC,notch,0.4,0.019178082,0,0,7.92,20,70,https://doi.org/10.3390/ma15134572
+Guo.2022,paste,OPC,notch,0.4,0.019178082,0.2,10,16.30,20,70,https://doi.org/10.3390/ma15134573
+Guo.2022,paste,OPC,notch,0.4,0.038356164,0,0,12.44,20,70,https://doi.org/10.3390/ma15134574
+Guo.2022,paste,OPC,notch,0.4,0.038356164,0.2,10,18.00,20,70,https://doi.org/10.3390/ma15134575
+Guo.2022,paste,OPC,notch,0.4,0.057534247,0,0,16.69,20,70,https://doi.org/10.3390/ma15134576
+Guo.2022,paste,OPC,notch,0.4,0.057534247,0.2,10,24.90,20,70,https://doi.org/10.3390/ma15134577
+Mullem.2020,mortar,OPC + fly ash,notch,0.55,0.038356164,0,0,7.40,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,notch,0.55,0.038356164,0.1,30,25.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,notch,0.55,0.038356164,0.2,30,25.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,notch,0.55,0.038356164,0.3,30,27.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,natural,0.55,0.038356164,0.1,50,13.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,natural,0.55,0.038356164,0.2,50,16.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,natural,0.55,0.038356164,0.3,50,18.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,notch,0.55,0.065753425,0,0,9.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,notch,0.55,0.065753425,0.1,30,23.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,notch,0.55,0.065753425,0.2,30,23.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,notch,0.55,0.065753425,0.3,30,32.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,natural,0.55,0.065753425,0.1,50,16.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,natural,0.55,0.065753425,0.2,50,20.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,natural,0.55,0.065753425,0.3,50,22.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,notch,0.55,0.084931507,0,0,11.90,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,notch,0.55,0.084931507,0.1,30,31.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,notch,0.55,0.084931507,0.2,30,31.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,notch,0.55,0.084931507,0.3,30,32.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,natural,0.55,0.084931507,0.1,50,21.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,natural,0.55,0.084931507,0.2,50,26.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,natural,0.55,0.084931507,0.3,50,31.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,notch,0.55,0.115068493,0,0,13.32,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,notch,0.55,0.115068493,0.1,30,32.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,notch,0.55,0.115068493,0.2,30,32.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,notch,0.55,0.115068493,0.3,30,32.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,notch,0.55,0.153424658,0,0,15.69,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,notch,0.55,0.153424658,0.1,30,34.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,notch,0.55,0.153424658,0.2,30,34.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,notch,0.55,0.153424658,0.3,30,34.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,notch,0.55,0.17260274,0,0,16.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,notch,0.55,0.17260274,0.1,30,35.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,notch,0.55,0.17260274,0.2,30,35.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Mullem.2020,mortar,OPC + fly ash,notch,0.55,0.17260274,0.3,30,35.00,1,60,https://doi.org/10.1007/978-3-030-76551-4
+Schultheiss.2023,mortar,OPC + fly ash,notch,0.5,0.076712329,0,0,4.36,2,65,
+Schultheiss.2023,mortar,OPC + fly ash,notch,0.5,0.076712329,0.1,10,10.95,2,65,
+Schultheiss.2023,mortar,OPC + fly ash,notch,0.5,0.076712329,0.1,20,20.24,2,65,
+Schultheiss.2023,mortar,OPC + fly ash,notch,0.5,0.076712329,0.15,10,10.54,2,65,
+Schultheiss.2023,mortar,OPC + fly ash,notch,0.5,0.076712329,0.15,20,21.03,2,65,
+Schultheiss.2023,mortar,OPC,notch,0.5,0.076712329,0,0,2.39,2,65,
+Schultheiss.2023,mortar,OPC,notch,0.5,0.076712329,0.1,10,10.26,2,65,
+Schultheiss.2023,mortar,OPC,notch,0.5,0.076712329,0.1,20,20.26,2,65,
+Schultheiss.2023,mortar,OPC,notch,0.5,0.076712329,0.15,10,10.52,2,65,
+Schultheiss.2023,mortar,OPC,notch,0.5,0.076712329,0.15,20,20.25,2,65,
+Schutter.1999,mortar,OPC + fly ash,notch,0.5,0.157303371,0,0,3.43,10,65,https://doi.org/10.1680/macr.1999.51.6.427 
+Schutter.1999,mortar,OPC + fly ash,notch,0.5,0.157303371,0.5,10,6.95,10,65,https://doi.org/10.1680/macr.1999.51.6.427 
+Schutter.1999,mortar,OPC + fly ash,notch,0.5,0.235955056,0,0,6.57,10,65,https://doi.org/10.1680/macr.1999.51.6.427 
+Schutter.1999,mortar,OPC + fly ash,notch,0.5,0.235955056,0.5,10,9.05,10,65,https://doi.org/10.1680/macr.1999.51.6.427 
+Schutter.1999,mortar,OPC + fly ash,notch,0.5,0.314606742,0,0,8.13,10,65,https://doi.org/10.1680/macr.1999.51.6.427 
+Schutter.1999,mortar,OPC + fly ash,notch,0.5,0.314606742,0.5,10,10.95,10,65,https://doi.org/10.1680/macr.1999.51.6.427 
+Schutter.1999,mortar,OPC + fly ash,notch,0.5,0.393258427,0,0,9.03,10,65,https://doi.org/10.1680/macr.1999.51.6.427 
+Schutter.1999,mortar,OPC + fly ash,notch,0.5,0.393258427,0.5,10,12.63,10,65,https://doi.org/10.1680/macr.1999.51.6.427 
+Schutter.1999,mortar,OPC + fly ash,notch,0.5,0.550561798,0,0,9.25,10,65,https://doi.org/10.1680/macr.1999.51.6.427 
+Schutter.1999,mortar,OPC + fly ash,notch,0.5,0.550561798,0.5,10,13.68,10,65,https://doi.org/10.1680/macr.1999.51.6.427 
+Schutter.1999,mortar,OPC,notch,0.5,0.153424658,0,0,2.43,10,65,https://doi.org/10.1680/macr.1999.51.6.427 
+Schutter.1999,mortar,OPC,notch,0.5,0.153424658,0.5,10,2.53,10,65,https://doi.org/10.1680/macr.1999.51.6.427 
+Schutter.1999,mortar,OPC,notch,0.5,0.230136986,0,0,2.43,10,65,https://doi.org/10.1680/macr.1999.51.6.427 
+Schutter.1999,mortar,OPC,notch,0.5,0.230136986,0.5,10,4.11,10,65,https://doi.org/10.1680/macr.1999.51.6.427 
+Schutter.1999,mortar,OPC,notch,0.5,0.306849315,0,0,2.43,10,65,https://doi.org/10.1680/macr.1999.51.6.427 
+Schutter.1999,mortar,OPC,notch,0.5,0.306849315,0.5,10,5.68,10,65,https://doi.org/10.1680/macr.1999.51.6.427 
+Schutter.1999,mortar,OPC,notch,0.5,0.383561644,0,0,2.87,10,65,https://doi.org/10.1680/macr.1999.51.6.427 
+Schutter.1999,mortar,OPC,notch,0.5,0.383561644,0.5,10,6.63,10,65,https://doi.org/10.1680/macr.1999.51.6.427 
+Schutter.1999,mortar,OPC,notch,0.5,0.536986301,0,0,3.21,10,65,https://doi.org/10.1680/macr.1999.51.6.427 
+Schutter.1999,mortar,OPC,notch,0.5,0.536986301,0.5,10,7.68,10,65,https://doi.org/10.1680/macr.1999.51.6.427 
+Zhang.2011,concerte,OPC,notch,0.5,0.019178082,0,0,1.99,20,70,https://doi.org/10.4028/www.scientific.net/AMR.261-263.84
+Zhang.2011,concerte,OPC,notch,0.5,0.019178082,0.1,20,4.03,20,70,https://doi.org/10.4028/www.scientific.net/AMR.261-263.84
+Zhang.2011,concerte,OPC,notch,0.5,0.019178082,0.2,20,4.60,20,70,https://doi.org/10.4028/www.scientific.net/AMR.261-263.84
+Zhang.2011,concerte,OPC,notch,0.5,0.019178082,0.3,20,4.59,20,70,https://doi.org/10.4028/www.scientific.net/AMR.261-263.84
+Zhang.2011,concerte,OPC,notch,0.5,0.019178082,0.5,20,4.72,20,70,https://doi.org/10.4028/www.scientific.net/AMR.261-263.84
+Zhang.2011,concerte,OPC,notch,0.5,0.019178082,0.62,20,4.86,20,70,https://doi.org/10.4028/www.scientific.net/AMR.261-263.84
+Zhang.2011,concerte,OPC,notch,0.5,0.038356164,0,0,4.05,20,70,https://doi.org/10.4028/www.scientific.net/AMR.261-263.84
+Zhang.2011,concerte,OPC,notch,0.5,0.038356164,0.1,20,5.77,20,70,https://doi.org/10.4028/www.scientific.net/AMR.261-263.84
+Zhang.2011,concerte,OPC,notch,0.5,0.038356164,0.2,20,7.07,20,70,https://doi.org/10.4028/www.scientific.net/AMR.261-263.84
+Zhang.2011,concerte,OPC,notch,0.5,0.038356164,0.3,20,5.53,20,70,https://doi.org/10.4028/www.scientific.net/AMR.261-263.84
+Zhang.2011,concerte,OPC,notch,0.5,0.038356164,0.5,20,6.09,20,70,https://doi.org/10.4028/www.scientific.net/AMR.261-263.84
+Zhang.2011,concerte,OPC,notch,0.5,0.038356164,0.62,20,6.86,20,70,https://doi.org/10.4028/www.scientific.net/AMR.261-263.84
+Zhang.2011,concerte,OPC,notch,0.5,0.076712329,0,0,6.05,20,70,https://doi.org/10.4028/www.scientific.net/AMR.261-263.84
+Zhang.2011,concerte,OPC,notch,0.5,0.076712329,0.1,20,7.56,20,70,https://doi.org/10.4028/www.scientific.net/AMR.261-263.84
+Zhang.2011,concerte,OPC,notch,0.5,0.076712329,0.2,20,7.97,20,70,https://doi.org/10.4028/www.scientific.net/AMR.261-263.84
+Zhang.2011,concerte,OPC,notch,0.5,0.076712329,0.3,20,7.59,20,70,https://doi.org/10.4028/www.scientific.net/AMR.261-263.84
+Zhang.2011,concerte,OPC,notch,0.5,0.076712329,0.5,20,7.77,20,70,https://doi.org/10.4028/www.scientific.net/AMR.261-263.84
+Zhang.2011,concerte,OPC,notch,0.5,0.076712329,0.62,20,8.12,20,70,https://doi.org/10.4028/www.scientific.net/AMR.261-263.84
+Zhang.2011,concerte,OPC,notch,0.5,0.153424658,0,0,8.05,20,70,https://doi.org/10.4028/www.scientific.net/AMR.261-263.84
+Zhang.2011,concerte,OPC,notch,0.5,0.153424658,0.1,20,10.03,20,70,https://doi.org/10.4028/www.scientific.net/AMR.261-263.84
+Zhang.2011,concerte,OPC,notch,0.5,0.153424658,0.2,20,10.02,20,70,https://doi.org/10.4028/www.scientific.net/AMR.261-263.84
+Zhang.2011,concerte,OPC,notch,0.5,0.153424658,0.3,20,10.48,20,70,https://doi.org/10.4028/www.scientific.net/AMR.261-263.84
+Zhang.2011,concerte,OPC,notch,0.5,0.153424658,0.5,20,10.77,20,70,https://doi.org/10.4028/www.scientific.net/AMR.261-263.84
+Zhang.2011,concerte,OPC,notch,0.5,0.153424658,0.62,20,10.65,20,70,https://doi.org/10.4028/www.scientific.net/AMR.261-263.84
