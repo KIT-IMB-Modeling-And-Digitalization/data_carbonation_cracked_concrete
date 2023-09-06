@@ -6,7 +6,7 @@ In this repository the database is reported as:
 
 |Ref|Mix type|binder type|crack type|w/b [-]|exposure time [year]|crack width [mm]|	crack depth [mm]|carbonation depth [mm]|CO2 [%]|RH [%]|DOI|
 |---|----|---|---|----|---|---|----|---|---|----|---|
-|Reference ID|concrete/ mortar/ paste|OPC / Fa+OPC|notch / natural|water-binder ratio|exposure time to $CO_2$|crack width at the surface|crack depth|Measured carbonation depth. For crack width=0 and crack depth=0 it is the carbonation depth of the uncreacked conecrete. Otherwise it is the maximum carbonation depth at the location of a crack.|$CO_2$ concentration of the experiment|relative humidity of the experiment|DOI link|
+|Reference ID|concrete/ mortar/ paste|OPC / Fa+OPC|notch / natural /no crack|water-binder ratio|exposure time to $CO_2$|crack width at the surface|crack depth|Measured carbonation depth. For crack width=0 and crack depth=0 it is the carbonation depth of the uncreacked conecrete. Otherwise it is the maximum carbonation depth at the location of a crack.|$CO_2$ concentration of the experiment|relative humidity of the experiment|DOI link|
 
 
 The literature data was collected from various articles partially using a [PlotDigitizer](https://automeris.io/WebPlotDigitizer/).
