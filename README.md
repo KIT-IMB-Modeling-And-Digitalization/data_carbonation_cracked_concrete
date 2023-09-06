@@ -14,7 +14,7 @@ The references for the literature data are listed blow:
 
 
 Furthemore, the prediction results of the four models compared in [Comparative analysis of engineering carbonation model extensions to account for pre-existing cracks]() are given in the file `prediction_results.csv`.
-|Ref|binder type|w/b|exposure time [years]|crack_width|crack_depth|Measured carbonation depth|CIF(w)|CIF(w,d)|diffusion-based|crack depth adaption|fib carbonation model|
+|Ref|binder type|w/b|exposure time [year]|crack width [mm]|crack depth  [mm]|carbonation depth  [mm]|CIF(w) [mm]|CIF(w,d) [mm]|diffusion-based [mm]|crack depth adaption [mm]|fib carbonation model [mm]|
 |---|----|---|---|----|---|---|----|---|---|----|---|
 |Reference ID|OPC / Fa+OPC|water-binder ratio|exposure time to $CO_2$|crack width at the surface [mm]|crack depth [mm] |Measured carbonation depth [mm]. For crack width=0 and crack depth=0 it is the carbonation depth of the uncreacked conecrete. Otherwise it is the maximum carbonation depth at the location of a crack.|Carbonation depth [mm] calculated with the CIF(w) model|Carbonation depth [mm] calculated with the CIF (w,d) model|Carbonation depth [mm] calculated with the diffusion based model|Carbonation depth [mm] calculated with the crack depth adaption|Carbonation depth [mm] calculated with the fib carbonation model|
 
