@@ -1,8 +1,8 @@
 # Dataset of the Article "Comparative analysis of engineering carbonation model extensions to account for pre-existing cracks"
 
-The dataset contains data used to evaluate different carbonation models for cracked concrete in the article [Comparative analysis of engineering carbonation model extensions to account for pre-existing crack]().
+The database `database_carbonation_cracked_concrete.CSV` contains data used to evaluate different carbonation models for cracked concrete in the article [Comparative analysis of engineering carbonation model extensions to account for pre-existing crack]().
 
-In this repository the dataset is reported as:
+In this repository the database is reported as:
 
 |Ref|Mix type|binder type|crack type|w/b [-]|exposure time [year]|crack width [mm]|	crack depth [mm]|carbonation depth [mm]|CO2 [%]|RH [%]|DOI|
 |---|----|---|---|----|---|---|----|---|---|----|---|
@@ -11,6 +11,12 @@ In this repository the dataset is reported as:
 
 The literature data was collected from various articles partially using a [PlotDigitizer](https://automeris.io/WebPlotDigitizer/).
 The references for the literature data are listed blow:
+
+
+Furthemore, the prediction results of the four models are given in the file `prediction_results.csv`.
+|Ref|binder type|w/b|exposure time [years]|crack_width|crack_depth|Measured carbonation depth|CIF(w)|CIF(w,d)|diffusion-based|crack depth adaption|fib carbonation model|
+|---|----|---|---|----|---|---|----|---|---|----|---|
+|Reference ID|OPC / Fa+OPC|water-binder ratio|exposure time to $CO_2$|crack width at the surface|crack depth|Measured carbonation depth. For crack width=0 and crack depth=0 it is the carbonation depth of the uncreacked conecrete. Otherwise it is the maximum carbonation depth at the location of a crack.|Carbonation depth [mm] calculated with the CIF(w) model|Carbonation depth [mm] calculated with the CIF (w,d) model|Carbonation depth [mm] calculated with the diffusion based model|Carbonation depth [mm] calculated with the crack depth adaption|Carbonation depth [mm] calculated with the fib carbonation model|
 
 
 | Ref | reference | 
