@@ -13,7 +13,7 @@ The references for the literature data are listed blow:
 
 | file | reference | note|
 |---|----|---|
-| Guo.2022b030_data| van Mullem, T.; de Meyst, L.; Handoyo, J.P.; Caspeele, R.; de Belie, N.; van den Heede, P. [Influence of Crack Geometry and Crack Width on Carbonation of High-Volume Fly Ash (HVFA) Mortar](https://link.springer.com/chapter/10.1007/978-3-030-76551-4_6). In Proceedings of the 3rd RILEM Spring Convention and Conference (RSCC 2020); 2020; Vol. RILEM Bookseries 33, pp. 59–67.| w/b=0.3|
+| Guo.2022b030_data| Guo, Q. et al. (2022) [Analysis of Carbonation Behavior of Cracked Concrete](https://doi.org/10.3390/ma15134518) in: Materials (Basel, Switzerland) 15, Nr. 13, p. 4518. | w/b=0.3|
 | Guo.2022b035_data| see above | w/b=0.35|
 | Guo.2022b040_data| see above | w/b=0.4|
 |Schutter1999_data|de Schutter, G. [Quantification of the influence of cracks in concrete structures on carbonation and chloride penetration](https://doi.org/10.1680/macr.1999.51.6.427). Magazine of Concrete Research 1999, 51, 427–435. | OPC mix|
