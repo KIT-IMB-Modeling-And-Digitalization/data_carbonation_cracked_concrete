@@ -1,4 +1,4 @@
-Ref,binder type,w/b,exposure time [years],crack_width,crack_depth,Measured carbonation depth,CIF(w),CIF(w,d),diffusion-based,crack depth adaption,fib carbonation model
+Ref,binder type,w/b,exposure time [years],crack_width,crack_depth,Measured carbonation depth,CIF(w),CIF(w;d),diffusion-based,crack depth adaption,fib carbonation model
 Guo.2022,OPC,0.3,0.019178082,0.2,10,15.5,9.167384544,6.348720004,2.550863692,14.05752557,,
 Guo.2022,OPC,0.3,0.038356164,0.2,10,16.2,12.96463955,8.978445933,3.033505252,15.7382077,,
 Guo.2022,OPC,0.3,0.057534247,0.2,10,16.6,15.87837594,10.99630571,3.357125431,17.02784051,,
