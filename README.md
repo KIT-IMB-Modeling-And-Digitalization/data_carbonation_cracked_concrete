@@ -4,9 +4,21 @@ The database `database_carbonation_cracked_concrete.CSV` contains data used to e
 
 In this repository the database is reported as:
 
-|Ref|Mix type|binder type|crack type|w/b [-]|exposure time [year]|crack width [mm]|	crack depth [mm]|carbonation depth [mm]|CO2 [%]|RH [%]|DOI|
-|---|----|---|---|----|---|---|----|---|---|----|---|
-|Reference ID|concrete/ mortar/ paste|OPC / Fa+OPC|notch / natural /no crack|water-binder ratio|exposure time to $CO_2$|crack width at the surface|crack depth|Measured carbonation depth. For crack width=0 and crack depth=0 it is the carbonation depth of the uncreacked conecrete. Otherwise it is the maximum carbonation depth at the location of a crack.|$CO_2$ concentration of the experiment|relative humidity of the experiment|DOI link|
+| Category           | Description|
+|----------------|--------------|
+| Ref            |   reference ID |
+| Mix type       | concrete/ mortar/ paste |
+| binder type    | OPC / Fa+OPC |
+| crack type     | notch / natural /no crack |
+| w/b [-]        | water-binder ratio |
+| exposure time [year] | exposure time to $CO_2$ |
+| crack width [mm] | crack width at the surface |
+| crack depth [mm] | crack depth |
+| carbonation depth [mm] | Measured carbonation depth. For crack width=0 and crack depth=0 it is the carbonation depth of the uncreacked conecrete. Otherwise it is the maximum carbonation depth at the location of a crack. |
+| CO2 [%]        | $CO_2$ concentration of the experiment |
+| RH [%]         | relative humidity of the experiment |
+| DOI            | DOI link |
+
 
 
 The literature data was collected from various articles partially using a [PlotDigitizer](https://automeris.io/WebPlotDigitizer/).
@@ -14,12 +26,36 @@ The references for the literature data are listed blow:
 
 
 Furthemore, the prediction results of the four models compared in [Comparative analysis of engineering carbonation model extensions to account for pre-existing cracks]() are given in the file `prediction_results.csv`.
-|Ref|binder type|w/b|exposure time [year]|crack width [mm]|crack depth  [mm]|carbonation depth  [mm]|CIF(w) [mm]|CIF(w;d) [mm]|diffusion-based [mm]|crack depth adaption [mm]|fib carbonation model [mm]|
-|---|----|---|---|----|---|---|----|---|---|----|---|
-|Reference ID|OPC / Fa+OPC|water-binder ratio|exposure time to $CO_2$|crack width at the surface [mm]|crack depth [mm] |Measured carbonation depth [mm]. For crack width=0 and crack depth=0 it is the carbonation depth of the uncreacked conecrete. Otherwise it is the maximum carbonation depth at the location of a crack.|Carbonation depth [mm] calculated with the CIF(w) model|Carbonation depth [mm] calculated with the CIF (w,d) model|Carbonation depth [mm] calculated with the diffusion based model|Carbonation depth [mm] calculated with the crack depth adaption|Carbonation depth [mm] calculated with the fib carbonation model|
+| Category                 | Description                            |
+|--------------------------|-----------------------------------|
+| Ref                      |   reference ID |
+| binder type              |   OPC / Fa+OPC                                |
+| w/b                      |   water-binder ratio                                |
+| R_acc^-1 [(mm^2/year)/(kgCO2/m^3)) |   inverse carbonation resistance parameter calculated with 
+the $CO_2$ concentration of the experiment and the carbonation depth $x_c,uncr (t)$ determined for 
+$t$ closest to 28 days $CO_2$ exposure.                       |
+| RH [%]                   |   relative humidity of the experiment                                |
+| t_c [days]               |   curing time befoe exposure                                |
+| ToW [-]                  |   time of wettness                                |
+| p_SR [-]                 |   probability of driving rain                                |
+| C_s [kgCO_2/m^3]         |   $CO_2$ concentration                                |
+| C [kg/m^3]               |   cement content                              |
+| CaO [-]                  |   calciumoxide content in cement                                 |
+| alpha [-]                |   degree of hydration                                |
+| exposure time [year]     |   exposure time to $CO_2$                                |
+| crack width [mm]         |   crack width at the surface                                |
+| crack depth [mm]          |   crack depth                                |
+| carbonation depth [mm]   |  Measured carbonation depth. For crack width=0 and crack depth=0 it is the carbonation depth of the uncreacked conecrete. Otherwise it is the maximum carbonation depth at the location of a crack.                                 |
+| CIF(w) [mm]              |   Predicted carbonation depth with the CIF(w) approach for cracked concrete                                |
+| CIF(w;d) [mm]            |   Predicted carbonation depth with the CIF(w, d) approach for cracked concrete                                  |
+| diffusion-based [mm]     |   Predicted carbonation depth with the diffusion-based approach for cracked concrete                                  |
+| crack depth adaption [mm]|   Predicted carbonation depth with the crack depth adaption  for cracked concrete                                  |
+| fib carbonation model [mm]|  Predicted carbonation depth with the fib carbonation model for uncracked concrete                                 |
 
 
-| Ref | reference | 
+The data in this database is from the following publications:
+
+| Ref | Publication | 
 |---|----|
 | Guo.2022| Guo, Q. et al. (2022) [Analysis of Carbonation Behavior of Cracked Concrete](https://doi.org/10.3390/ma15134518) in: Materials (Basel, Switzerland) 15, Nr. 13, p. 4518. | 
 |Schutter.1999|de Schutter, G. [Quantification of the influence of cracks in concrete structures on carbonation and chloride penetration](https://doi.org/10.1680/macr.1999.51.6.427). Magazine of Concrete Research 1999, 51, 427–435. |
