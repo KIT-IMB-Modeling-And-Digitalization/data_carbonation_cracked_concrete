@@ -1,6 +1,6 @@
 # Dataset of the Article "Comparative analysis of engineering carbonation model extensions to account for pre-existing cracks"
 
-The database `database_carbonation_cracked_concrete.CSV` contains data used to evaluate different carbonation models for cracked concrete in the article [Comparative analysis of engineering carbonation model extensions to account for pre-existing crack]().
+The database `database_carbonation_cracked_concrete.CSV` contains data used to evaluate different carbonation models for cracked concrete in the article [Comparative analysis of engineering carbonation model extensions to account for pre-existing crack](https://doi.org/10.3390/ma16186177).
 
 The literature data was collected from various articles partially using a [PlotDigitizer](https://automeris.io/WebPlotDigitizer/).
 In this repository the database is reported as:
@@ -34,11 +34,11 @@ New data from experiments of this article:
 
 | file | reference | 
 |---|----|
-|Schultheiss.2023|Schultheiß, A.L.; Patel, R.A; Vogel M.; Dehn, F. [Comparative analysis of engineering carbonation model extensions to account for pre-existing cracks](), |
+|Schultheiss.2023|Schultheiß, A.L.; Patel, R.A; Vogel M.; Dehn, F. [Comparative analysis of engineering carbonation model extensions to account for pre-existing cracks](https://doi.org/10.3390/ma16186177), |
 
 
 
-Furthemore, the input parameter and prediction results of the four models compared in [Comparative analysis of engineering carbonation model extensions to account for pre-existing cracks]() are given in the file `prediction_results.csv`.
+Furthemore, the input parameter and prediction results of the four models compared in [Comparative analysis of engineering carbonation model extensions to account for pre-existing cracks](https://doi.org/10.3390/ma16186177) are given in the file `prediction_results.csv`.
 | Category                 | Description                            |
 |--------------------------|-----------------------------------|
 | Ref                      |   reference ID |
