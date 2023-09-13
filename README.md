@@ -69,4 +69,4 @@ Furthemore, the input parameter and prediction results of the four models compar
 
 To use the provided datasets please cite:
 
-Schultheiß, A.L.; Patel, R.A; Vogel M.; Dehn, F. [Comparative analysis of engineering carbonation model extensions to account for pre-existing cracks](),
+Schultheiß, A.L.; Patel, R.A.; Vogel, M.; Dehn, F. [Comparative Analysis of Engineering Carbonation Model Extensions to Account for Pre-Existing Cracks](https://doi.org/10.3390/ma16186177). Materials 2023, 16, 6177. https://doi.org/10.3390/ma16186177
